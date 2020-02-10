@@ -1,0 +1,8 @@
+﻿  HotelBookingSystem.cpp
+D:\projekt programowanie\HotelBookingSystem\HotelBookingSystem\HotelBookingSystem.cpp(73,23): warning C4018: '<': signed/unsigned mismatch
+D:\projekt programowanie\HotelBookingSystem\HotelBookingSystem\HotelBookingSystem.cpp(84,23): warning C4018: '<': signed/unsigned mismatch
+D:\projekt programowanie\HotelBookingSystem\HotelBookingSystem\HotelBookingSystem.cpp(86,24): warning C4018: '<': signed/unsigned mismatch
+D:\projekt programowanie\HotelBookingSystem\HotelBookingSystem\HotelBookingSystem.cpp(101,23): warning C4018: '<': signed/unsigned mismatch
+D:\projekt programowanie\HotelBookingSystem\HotelBookingSystem\HotelBookingSystem.cpp(103,24): warning C4018: '<': signed/unsigned mismatch
+D:\projekt programowanie\HotelBookingSystem\HotelBookingSystem\HotelBookingSystem.cpp(119,23): warning C4018: '<': signed/unsigned mismatch
+  HotelBookingSystem.vcxproj -> D:\projekt programowanie\HotelBookingSystem\Debug\HotelBookingSystem.exe
