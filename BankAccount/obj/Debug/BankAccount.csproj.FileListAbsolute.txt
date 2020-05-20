@@ -1,0 +1,11 @@
+D:\New folder\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+D:\New folder\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+D:\New folder\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+D:\New folder\BankAccount\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache
+D:\New folder\BankAccount\BankAccount\obj\Debug\BankAccount.Form1.resources
+D:\New folder\BankAccount\BankAccount\obj\Debug\BankAccount.Properties.Resources.resources
+D:\New folder\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.GenerateResource.cache
+D:\New folder\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+D:\New folder\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+D:\New folder\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
+D:\New folder\BankAccount\BankAccount\obj\Debug\BankAccount.MainWindow.resources
